@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 17 16:03:46 2021
 
-@author: ZafosK
+@author: https://github.com/ZafosK/
 """
 
 import re
