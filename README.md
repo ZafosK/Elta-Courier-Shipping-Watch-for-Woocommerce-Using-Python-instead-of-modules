@@ -14,4 +14,9 @@ in order to create a new list, including the status of each order.
 
 ## Requirements
 
-### For 
+### For voucher_lookup.py
+
+1. chromium webdriver
+
+2. Python with the following modules installed on your environment
+   
